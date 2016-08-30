@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smaple Maven" duration-ms="42817" started-at="2016-08-30T05:48:24Z" finished-at="2016-08-30T05:49:07Z">
+    <groups>
+    </groups>
+    <test name="MavenClass" duration-ms="42817" started-at="2016-08-30T05:48:24Z" finished-at="2016-08-30T05:49:07Z">
+      <class name="com.sample.MavenClass">
+        <test-method status="PASS" signature="sample()[pri:0, instance:com.sample.MavenClass@14005e1]" name="sample" is-config="true" duration-ms="42817" started-at="2016-08-30T11:18:24Z" finished-at="2016-08-30T11:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- com.sample.MavenClass -->
+    </test> <!-- MavenClass -->
+  </suite> <!-- Smaple Maven -->
+</testng-results>
