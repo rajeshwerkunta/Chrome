@@ -16,6 +16,7 @@ public class MavenClass {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		driver.get("https://www.google.co.in/");
+		driver.quit();
 
 	}
 
